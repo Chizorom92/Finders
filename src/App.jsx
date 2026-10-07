@@ -51,7 +51,7 @@ function App() {
     return (
         <Routes>
             {/* Public */}
-            <Route path="/" element={<Navigate to="/login" replace />} />
+            <Route path="/" element={<Navigate to="/home" replace />} />
             <Route path="/home" element={<Home />} />
             <Route path="/search" element={<Search />} />
             <Route path="/about" element={<About />} />

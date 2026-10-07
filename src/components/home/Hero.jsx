@@ -89,7 +89,7 @@ const Hero = () => {
                 </div>
 
                 {/* Bottom */}
-                <div className="flex items-end justify-between">
+                <div className="flex items-end justify-between mb-15">
                     <div>
                         <p className="text-xs uppercase tracking-[0.2em] text-[#F3E7D4]">
                             Featured Property
