@@ -1,7 +1,7 @@
 import { useParams, useNavigate } from "react-router-dom";
 import DashboardLayout from "../../layouts/DashboardLayout";
 import { countries } from "../../data/countries";
-import CountryListings from "../../components/International/CountryListings.jsx"
+import CountryListings from "../../components/international/CountryListings.jsx"
 import {
     ArrowLeft,
     // MapPin,
