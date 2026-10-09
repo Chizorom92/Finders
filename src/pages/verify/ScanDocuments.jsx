@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import DashboardLayout from "../../layouts/DashboardLayout";
-import ScanHero from "../../components/ai/scanDocuments/ScanHero";
+import ScanHero from "../../components/ai/scanDocuments/scanHero";
 import DocumentTypeSelector from "../../components/ai/scanDocuments/DocumentTypeSelector";
 import UploadZone from "../../components/ai/scanDocuments/UploadZone.jsx";
 import ScanAnalyzer from "../../components/ai/scanDocuments/ScanAnalyzer.jsx";
