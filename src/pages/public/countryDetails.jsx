@@ -4,7 +4,7 @@ import { countries } from "../../data/countries";
 import CountryListings from "../../components/International/CountryListings.jsx"
 import {
     ArrowLeft,
-    MapPin,
+    // MapPin,
     Home,
     Building2,
     GraduationCap,
