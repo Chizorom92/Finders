@@ -23,7 +23,7 @@ import PropertyMap from "./pages/public/PropertyMap";
 import InternationalRental from "./pages/public/InternationalRental";
 import CountryDetails from "./pages/public/countryDetails";
 import VisaGuide from "./pages/public/VisaGuide";
-import BookInspection from "./pages/public/bookInspection";
+import BookInspection from "./pages/public/BookInspection.jsx";
 
 // Auth
 import Login from "./pages/auth/Login";
