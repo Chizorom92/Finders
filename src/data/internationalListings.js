@@ -5,7 +5,7 @@ import Canadaa4 from "../assets/international/listings/Canadaa4.jpg";
 
 import UnitedK1 from "../assets/international/listings/UnitedK1.jpg";
 import UnitedK2 from "../assets/international/listings/UnitedK2.jpg";
-import UnitedK3 from "../assets/international/listings/UnitedK3.jpg";
+import UnitedK3 from "../assets/international/listings/Unitedk3.jpg";
 import UnitedK4 from "../assets/international/listings/UnitedK4.jpg";
 
 import Usa1 from "../assets/international/listings/Usa1.jpg";
